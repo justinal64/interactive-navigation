@@ -1,0 +1,14 @@
+/*Task 1*/
+a:first-of-type:hover {
+    color: pink;
+}
+
+/*Task 2*/
+li:nth-of-type(2):hover {
+    background-color: red
+}
+
+/*Task 3*/
+li:last-of-type:active {
+    background-color: pink;
+}
