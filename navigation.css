@@ -1,5 +1,5 @@
-/*Task 1 Not Working*/
-a:first-of-type {
+/*Task 1*/
+li:first-child a:hover {
     color: red;
 }
 
