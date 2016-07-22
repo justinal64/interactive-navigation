@@ -1,6 +1,7 @@
 /*Task 1*/
 li:first-child a:hover {
     color: red;
+    margin: 0 5px 0 5px;
 }
 
 /*Task 2*/
@@ -8,8 +9,12 @@ li:nth-of-type(2):hover {
     background-color: red
 }
 
-/*/*Task 3*/
+/*Task 3*/
 li:last-of-type:active {
     background-color: pink;
 }
 
+/*Just for the fun of it*/
+ul {
+    list-style: none;
+}
