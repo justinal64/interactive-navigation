@@ -1,5 +1,5 @@
 /*Task 1*/
-nav ul > li:first-child a:hover {
+li:first-child a:hover {
     color: red;
 }
 
